@@ -63,7 +63,3 @@ java RangeSearchVisualizer <filename>
 - Java Standard Library (`stdlib`)
 - Data Structures (`dsa` package)
 
-## License
-
-This project is open-source and available under the MIT License.
-
