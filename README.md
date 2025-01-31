@@ -24,6 +24,11 @@ This project implements a kd-tree-based spatial data structure and provides a bo
 
 ### Running the Boid Simulator
 
+
+
+https://github.com/user-attachments/assets/048297e1-4466-4322-9e62-1240ce3b5eba
+
+
 ```sh
 java BoidSimulator <mode> <numBoids> <friends>
 ```
