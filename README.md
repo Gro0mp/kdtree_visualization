@@ -25,7 +25,6 @@ This project implements a kd-tree-based spatial data structure and provides a bo
 ### Running the Boid Simulator
 
 
-
 https://github.com/user-attachments/assets/048297e1-4466-4322-9e62-1240ce3b5eba
 
 
@@ -55,6 +54,10 @@ java NearestNeighborVisualizer <filename> <k>
 - `<k>`: Number of nearest neighbors to visualize.
 
 ### Running the Range Search Visualizer
+
+
+https://github.com/user-attachments/assets/ca974bb8-f55e-4bc3-b65d-135b3c748976
+
 
 ```sh
 java RangeSearchVisualizer <filename>
