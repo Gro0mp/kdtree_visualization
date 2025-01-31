@@ -46,6 +46,10 @@ java BoidSimulator <mode> <numBoids> <friends>
 
 ### Running the Nearest Neighbor Visualizer
 
+
+https://github.com/user-attachments/assets/567e590d-d784-4bdf-9aa3-c801d0e5fbae
+
+
 ```sh
 java NearestNeighborVisualizer <filename> <k>
 ```
