@@ -75,3 +75,6 @@ java RangeSearchVisualizer <filename>
 - Java Standard Library (`stdlib`)
 - Data Structures (`dsa` package)
 
+## Credits
+
+- Algorithms Fourth Edition by Robert Sedgewick and Kevin Wayne
