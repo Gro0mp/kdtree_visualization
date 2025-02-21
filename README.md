@@ -30,6 +30,7 @@ https://github.com/user-attachments/assets/048297e1-4466-4322-9e62-1240ce3b5eba
 
 ```sh
 java BoidSimulator <mode> <numBoids> <friends>
+java BoidSimulator brute 100 5
 ```
 
 - `<mode>`: Either `brute` (brute-force search) or `kdtree` (kd-tree search).
@@ -52,6 +53,7 @@ https://github.com/user-attachments/assets/567e590d-d784-4bdf-9aa3-c801d0e5fbae
 
 ```sh
 java NearestNeighborVisualizer <filename> <k>
+java NearestNeighborVisualizer ./data/circle100.txt 4
 ```
 
 - `<filename>`: File containing point coordinates.
@@ -65,6 +67,7 @@ https://github.com/user-attachments/assets/ca974bb8-f55e-4bc3-b65d-135b3c748976
 
 ```sh
 java RangeSearchVisualizer <filename>
+java RangeSearchVisualizer ./data/circle10.txt
 ```
 
 - `<filename>`: File containing point coordinates.
